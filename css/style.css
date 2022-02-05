@@ -524,7 +524,6 @@ body {
 
 .carousel__item img {
   max-width: 100%;
-  max-height: 100%;
   -o-object-fit: contain;
      object-fit: contain;
 }
@@ -1326,7 +1325,7 @@ body {
 }
 
 .booking__icon {
-  background: url(/img/popup/logo.svg) 0 0 no-repeat;
+  background: url(../img/popup/logo.svg) 0 0 no-repeat;
   width: 85px;
   height: 41px;
   margin: 0px 0px 5px 0px;
