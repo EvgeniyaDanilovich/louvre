@@ -2,7 +2,7 @@
 
 ## [Live preview](https://evgeniyadanilovich.github.io/louvre/)
 
-Adaptive landing page with a lot of features.
+An adaptive landing page with a lot of features.
 
 ## Main features
 * Slider
